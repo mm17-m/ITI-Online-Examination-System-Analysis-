@@ -60,7 +60,7 @@ This project is part of my ITI Graduation Project, where My Team and I designed 
 #### 📍 Dashboards
 ![Project 4 Dashboard](screenshots/project%204.png)
 
-> more Screenshots of sample dashboards are available in the `screenshots/` folder.
+> More Screenshots Samples of dashboards are available in the `screenshots/` folder.
 
 ---
 
