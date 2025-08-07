@@ -3,15 +3,6 @@
 
 This project is part of my ITI Graduation Project, where My Team and I designed and implemented a full **Examination System** covering all aspects of a complex educational institution. It includes a **relational SQL Server database** with 21 interconnected tables, alongside **20+ Power BI dashboards** for deep data analysis and decision-making insights.
 
----
-
-## 📸 Dashboard Previews
-
-### 📍 Project 4 Overview
-![Project 4 Dashboard](screenshots/project%204.png)
-
-### 📍 Project 3 Overview
-![Project 3 Dashboard](screenshots/project%203.png)
 
 ## 🗂️ Project Components
 
@@ -61,7 +52,15 @@ This project is part of my ITI Graduation Project, where My Team and I designed 
 
 ## 📊 Example Visuals
 
-> Screenshots of sample dashboards are available in the `screenshots/` folder.
+#### 📸 Dashboard Previews
+
+#### 📍 Home Page
+![Project 3 Dashboard](screenshots/project%203.png)
+
+#### 📍 Dashboards
+![Project 4 Dashboard](screenshots/project%204.png)
+
+> more Screenshots of sample dashboards are available in the `screenshots/` folder.
 
 ---
 
